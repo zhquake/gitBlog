@@ -1,4 +1,4 @@
 gitBlog
 =======
 
-A blog based on git pages
+A blog based on gh-pages
