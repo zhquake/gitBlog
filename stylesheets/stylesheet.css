@@ -78,8 +78,8 @@ header h2 {
 */
 
 #main_content {
-  width: 80%;
-    margin: 0 auto;
+  width: 90%;
+  margin: 0 auto;
   -webkit-font-smoothing: antialiased;
 }
 section img {
