@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Play github in 11.11
+title: Big Data Marketing Title
 ---
 
 <h2>{{page.title}}</h2>
