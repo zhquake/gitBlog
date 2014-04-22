@@ -1,1 +1,8 @@
-First Blog for Big Data Marketing
+---
+layout: default
+title: Play github in 11.11
+---
+
+<h2>{{page.title}}</h2>
+
+<p>First Blog for Big Data Marketing</p>
