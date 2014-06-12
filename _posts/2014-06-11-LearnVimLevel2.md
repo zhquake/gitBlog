@@ -26,11 +26,11 @@ title: Learn Vim Level 2
 
 ###VISUAL MODE
 * Use v to start visual mode 
-** x or d   delete
-** y   copy
-** r   replace
-** u   to lower case
-** U   to upper case 
+1 x or d   delete
+2 y   copy
+3 r   replace
+4 u   to lower case
+5 U   to upper case 
 
 
 ###COPY PASTE DELETE

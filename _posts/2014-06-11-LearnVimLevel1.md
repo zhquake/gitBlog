@@ -8,34 +8,27 @@ title: Learn Vim Level 1
 ###BASICS
 
 * Use h j k l to move
-
-** h left 
-** j down
-** k up
-** l right
+1 h left 
+2 j down
+3 k up
+4 l right
 
 * Use x to remove the current character 
-
-** x 
+1 x 
 
 * Use D to remove the rest characters of this row
-
-** D  
+1 D  
 
 * Use dd to remove the current row
-
-** dd  delete delete? remove the current row and copy to the clipboard
+1 dd  delete delete? remove the current row and copy to the clipboard
 
 * Use p to paster
-
-** p   paste? 
+1 p   paste? 
 
 * Use :wq to write and exit
-
-** :wq  write and exit?
+1 :wq  write and exit?
 
 * Get help
-
-** :help <command**  use :q to exit 
+1 :help <command**  use :q to exit 
 
 
