@@ -25,12 +25,12 @@ title: Learn Vim Level 2
 * Need to learn more about pattern.
 
 ###VISUAL MODE
-Use v to start visual mode 
-* x or d   delete
-* y   copy
-* r   replace
-* u   to lower case
-* U   to upper case 
+* Use v to start visual mode 
+** x or d   delete
+** y   copy
+** r   replace
+** u   to lower case
+** U   to upper case 
 
 
 ###COPY PASTE DELETE
