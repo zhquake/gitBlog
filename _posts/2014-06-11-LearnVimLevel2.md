@@ -33,9 +33,12 @@ Use v to start visual mode
 * U   to upper case 
 
 
-###COPY AND PASTE
-* p   paste
+###COPY PASTE DELETE
+* y   copy from current position to your next move
 * yy  copy this line, same with ddp
+* y$  copy from current position to end of this line
+* p   paste
+* d   delete from current position to your next move
 
 ###FILE OPERATION
 * :e path_to_file    open one file
