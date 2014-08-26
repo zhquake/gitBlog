@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Play with markdown
+title: Shell dirname
 ---
 
 ## dirname
